@@ -1,0 +1,10 @@
+{
+  "name": "@aqtract/contracts",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "PATH=$HOME/.foundry/bin:$PATH forge build",
+    "test": "PATH=$HOME/.foundry/bin:$PATH forge test",
+    "clean": "PATH=$HOME/.foundry/bin:$PATH forge clean"
+  }
+}
