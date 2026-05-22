@@ -17,3 +17,4 @@ export {
   attestations,
   attestationTypeEnum,
 } from "./tables/attestations.js";
+export { apiKeys } from "./tables/api-keys.js";
