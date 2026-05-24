@@ -1,0 +1,42 @@
+# === Personal / proprietary files — NOT part of AqTract ===
+
+# Jed identity & operations
+SOUL.md
+AGENTS.md
+AUDIT.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+OPERATING_PLAYBOOK.md
+TOOLS.md
+USER.md
+HANDOFF.md
+HANDOFF-AQTRACT.md
+PRIORITIES.md
+MISSION.md
+INDEX.md
+STATUS.md
+
+# Personal folders
+memory/
+context/
+mission-control/
+skills/
+products/
+daily-deliverable/
+tmp/
+Article Analysis/
+
+# OpenClaw workspace config
+.openclaw/
+.gitmodules
+
+# Claude config
+.claude/
+
+# OS files
+.DS_Store
+
+# Node
+node_modules/
